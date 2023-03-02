@@ -1,0 +1,1 @@
+export { TableBottom } from './table-bottom';

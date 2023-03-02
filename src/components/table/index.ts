@@ -1,0 +1,1 @@
+export { CustomTable as Table } from './table'
